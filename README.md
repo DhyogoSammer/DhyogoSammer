@@ -5,7 +5,7 @@
 
 ![Dhyogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DhyogoSammer&show_icons=true&theme=dracula)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?username={DhyogoSammer}&theme=blue-green
 
 ## Tecnologias que eu uso no meu dia 
 

@@ -10,7 +10,9 @@
 ## My Skills
 <div align = "center">
 <div display = "inline block" >
+
   
+<img align = "center" height = "50" width = "50" alt = "java-icon" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> 
 <img align = "center" height = "50" width = "50" alt = "git-icon" src = "https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> 
 
   

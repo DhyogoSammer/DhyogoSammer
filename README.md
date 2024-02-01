@@ -7,9 +7,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyogoSammer&layout=compact)
 
-## My Skills
 <div align = "center">
 <div display = "inline block" >
+<h1 align = "center" > My Skills </h1>
 
   
 <img align = "center" height = "50" width = "50" alt = "java-icon" src = "https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> 

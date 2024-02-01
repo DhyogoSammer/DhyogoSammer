@@ -5,7 +5,7 @@
 
 ![Dhyogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DhyogoSammer&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyogoSammer&layout=pie)](https://github.com/DhyogoSammer/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyogoSammer&layout=compact)
 
 ## My Skills
 
